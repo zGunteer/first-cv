@@ -1,1 +1,1 @@
-# first-cv
+# First CV made with HTML and CSS
